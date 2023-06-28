@@ -8,6 +8,6 @@
 
 ☕ "I speak java" : This is my motto, as I'm an avid lover of coffee and Java was my first programming language. 
 
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/chloeduncancss/
 
 
