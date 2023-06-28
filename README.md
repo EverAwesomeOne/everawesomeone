@@ -7,3 +7,7 @@
 🌎 I'm currently practicing my Spanish skills to become conversational.
 
 ☕ "I speak java" : This is my motto, as I'm an avid lover of coffee and Java was my first programming language. 
+
+![linkedin](https://img.shields.io/badge/linkedin)]
+
+
