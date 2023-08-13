@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=everawesomeone&label=Profile%20views&color=0e75b6&style=flat" alt="everawesomeone" /> </p>
-
 <h1 align="center"> Hallo 👋 </h1>
 
 <h4 align="center">📐 My name is Chloe and I'm a software developer. I'm passionate about creating software that serves the greater good by incorporating mathematical concepts to provide insightful analysis 📐</h4>
@@ -25,3 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=everawesomeone&" alt="everawesomeone" /></p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=everawesomeone&label=Profile%20views&color=0e75b6&style=flat" alt="everawesomeone" /> </p>
