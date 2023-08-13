@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=everawesomeone&label=Profile%20views&color=0e75b6&style=flat" alt="everawesomeone" /> </p>
+
 <h1 align="center"> Hallo 👋 </h1>
 
 <h4 align="center">📐 My name is Chloe and I'm a software developer. I'm passionate about creating software that serves the greater good by incorporating mathematical concepts to provide insightful analysis 📐</h4>
@@ -8,8 +10,6 @@
 <p> ☕ "I speak java" : This is my motto, as I'm an avid lover of coffee and Java was my first programming language.</p>
 
 <!---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=everawesomeone&label=Profile%20views&color=0e75b6&style=flat" alt="everawesomeone" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chloeduncancss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chloeduncancss" height="30" width="40" /></a>
