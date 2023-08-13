@@ -3,11 +3,8 @@
 <h3 align="center">📐 My name is Chloe and I'm a software developer. I'm passionate about creating software that serves the greater good by incorporating mathematical concepts to provide insightful analysis 📐</h3>
 
 🔭 I’m currently looking for work in software and data engineering.
-
 🧠 I’m currently learning SAS and the ANOVA statstical model to strengthen my data analysis skill set.
-
 🌎 I'm currently practicing my Spanish skills to become conversational.
-
 ☕ "I speak java" : This is my motto, as I'm an avid lover of coffee and Java was my first programming language. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=everawesomeone&label=Profile%20views&color=0e75b6&style=flat" alt="everawesomeone" /> </p>
