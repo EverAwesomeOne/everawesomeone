@@ -8,9 +8,9 @@
 
 ☕ "I speak java" : This is my motto, as I'm an avid lover of coffee and Java was my first programming language. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=everawesomeone&label=Profile%20views&color=0e75b6&style=flat" alt="everawesomeone" /> </p>
+<h3 align="center">📐 My name is Chloe and I'm a software developer. I'm passionate about creating software that serves the greater good by incorporating mathematical concepts to provide insightful analysis 📐</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=everawesomeone" alt="everawesomeone" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=everawesomeone&label=Profile%20views&color=0e75b6&style=flat" alt="everawesomeone" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
