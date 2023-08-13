@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=everawesomeone&label=Profile%20views&color=0e75b6&style=flat" alt="everawesomeone" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=everawesomeone&label=Profile%20views&color=0e75b6&style=flat" alt="everawesomeone" /> </p>
 
 <h1 align="center"> Hallo 👋 </h1>
 
