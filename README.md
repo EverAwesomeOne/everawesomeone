@@ -1,6 +1,6 @@
 <h1 align="center"> Hallo 👋 </h1>
 
-<h4 align="center">📐 My name is Chloe and I'm a software developer. I'm passionate about creating software that serves the greater good by incorporating mathematical concepts to provide insightful analysis 📐</h4>
+<h3 align="center">📐 My name is Chloe and I'm a software developer. I'm passionate about creating software that serves the greater good by incorporating mathematical concepts to provide insightful analysis 📐</h3>
 
 <p> 🔭 I’m currently looking for work in software and data engineering.</p>
 <p> 🧠 I’m currently learning SAS and the ANOVA to strengthen my data skill set.</p>
