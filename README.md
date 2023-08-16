@@ -19,7 +19,7 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=everawesomeone&show_icons=true&locale=en&layout=compact" alt="everawesomeone" /></p>-->
 
-<p>![image](https://github.com/EverAwesomeOne/everawesomeone/assets/84816105/bbf7cf52-3d71-4e91-a9fc-62cbe459ce21)
+<p> <img align="left" src="https://github.com/EverAwesomeOne/everawesomeone/assets/84816105/bbf7cf52-3d71-4e91-a9fc-62cbe459ce21" />
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=everawesomeone&show_icons=true&locale=en" alt="everawesomeone" /></p>
 
