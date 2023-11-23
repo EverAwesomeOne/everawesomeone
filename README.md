@@ -2,8 +2,8 @@
 
 <h3 align="center">📐 My name is Chloe and I'm a software developer. I'm passionate about creating software that serves the greater good by incorporating mathematical concepts to provide insightful analysis 📐</h3>
 
-<p> 🔭 I’m currently looking for work in software and data engineering.</p>
-<p> 🧠 I’m currently learning SAS and the ANOVA to strengthen my data skill set.</p>
+<p> 🔭 I’m currently looking for work in software engineering.</p>
+<p> 🧠 I’m currently learning more SQL and Java to strengthen my fullstack and web dev skills.</p>
 <p> 🌎 I'm currently practicing my Spanish skills to become conversational.</p>
 <p> ☕ "I speak java" : This is my motto, as I'm an avid lover of coffee and Java was my first programming language.</p>
 
